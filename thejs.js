@@ -847,6 +847,7 @@ $(document).ready(function() {
   $('.newemailbutton').click(addSubReddit);
   main_inbox = makeFolder('Front Page');
   makeFolder('gaming');
+  makeFolder('nosleep');
   makeFolder('pics');
   makeFolder('askreddit');
   makeFolder('jokes');
